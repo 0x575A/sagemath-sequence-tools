@@ -17,6 +17,12 @@ Getting Started
 
 To use these tools, simply clone the repository and run the provided SageMath functions in your local Sage environment.
 
+In your Jupyter Notebook run:
+
+load("sequence_and_series.sage)
+
+initialize()
+
 This repository is ideal for:
 
     Students looking for practical tools to assist with their mathematics studies.
